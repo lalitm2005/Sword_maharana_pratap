@@ -7,16 +7,21 @@
 }
 
 :root {
-  --primary-color: #5a1e7a;
-  --secondary-color: #3c1053;
-  --accent-color: #ffc107;
-  --text-color: #333;
-  --light-color: #f8f9fa;
-  --dark-color: #212529;
-  --grey-color: #6c757d;
-  --border-radius: 8px;
-  --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --primary-color: #8e6c88;       /* Muted purple - reminiscent of royal fabrics */
+  --secondary-color: #6b4e6a;     /* Deep antique purple */
+  --accent-color: #d4af37;        /* Gold accent - symbol of wealth and divinity */
+  --text-color: #3a2e3a;         /* Deep brownish-purple for text */
+  --light-color: #f5f0e8;        /* Parchment/antique white */
+  --dark-color: #2c232c;         /* Near-black with purple undertone */
+  --grey-color: #7a6a7a;         /* Muted antique grey */
+  --border-radius: 6px;           /* Slightly less rounded for ancient aesthetic */
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   --transition: all 0.3s ease;
+  
+  /* Additional ancient-themed variables */
+  --stone-color: #c0b9b1;        /* Sandstone color */
+  --bronze-color: #b08d57;       /* Aged bronze */
+  --hieroglyph-color: #5a4a42;   /* Dark brown for decorative elements */
 }
 
 body {
