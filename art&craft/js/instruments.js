@@ -67,13 +67,13 @@ const artAndCulture = [
         cultural_significance: 8
     },
     {
-        id: 'maand',
-        name: 'Maand Singing',
-        description: 'Classical singing style of Rajasthan\'s royal courts',
-        image: 'images/maand.png',
-        link: 'maand.html',
-        category: 'Music',
-        region: 'jodhpur',
+        id: 'Molela terracotta',
+        name: 'Molela terracotta',
+        description: 'Terracotta art form depicting deities and folk tales, unique to the Molela village',
+        image: 'images/molela.png',
+        link: 'molela.html',
+        category: 'Art',
+        region: 'rajsamand',
         popularity: 82,
         cultural_significance: 9
     },
