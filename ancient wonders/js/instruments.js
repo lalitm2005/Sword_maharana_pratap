@@ -27,7 +27,7 @@ const monuments = [
         name: 'Maharana Pratap\'s Sword',
         description: 'The legendary heavy sword of Maharana Pratap symbolizing valor and Rajput pride',
         image: 'images/m-pratap-sword.png',
-        link: 'm-pratap-sword.html',
+        link: 'Sword_of_maharana_pratap/index.html',
         category: 'Artifact',
         region: 'mewar',
         popularity: 89,

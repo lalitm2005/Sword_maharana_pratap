@@ -71,7 +71,7 @@ const artAndCulture = [
         name: 'Molela terracotta',
         description: 'Terracotta art form depicting deities and folk tales, unique to the Molela village',
         image: 'images/molela.png',
-        link: 'molela.html',
+        link: 'Molela_Terracotta/index.html',
         category: 'Art',
         region: 'rajsamand',
         popularity: 82,
